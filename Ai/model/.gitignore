@@ -1,0 +1,29 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model files
+*.pkl
+
+# Logs and temp
+*.log
+*.tmp
+
+# VSCode
+.vscode/
+
+# Ignore dataset (optional)
+dataset/
